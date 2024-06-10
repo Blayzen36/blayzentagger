@@ -2,7 +2,7 @@ import os
 import heroku3
 from telethon import TelegramClient, events, Button
 
-#samilben
+#blayzen
 # 
 api_id = "28480994"
 api_hash = "eddbf24f0a04c848f80e9c697796ad55"
